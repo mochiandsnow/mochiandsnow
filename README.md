@@ -40,4 +40,12 @@ Details on the [role asset packs](https://mochiandsnow.github.io/role-assets/) p
 
 ---
 
+## 支持 / Support
+
+中文内容与数字商品同步在爱发电发布（AI 提效实操 · 提示词库 · 桌宠周边）：
+
+**爱发电主页 — https://afdian.com/a/nuotuan**
+
+---
+
 <sub>Mochi (糯团) and Snow (雪团) are original characters created by this studio. All artwork is original.</sub>
